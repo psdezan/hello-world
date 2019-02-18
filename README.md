@@ -1,2 +1,5 @@
 # hello-world
-It is a simple exercise that gets you started when learning something new.
+Hello,
+This is my first branch and I'm following the raisins of the tutorial.
+
+thankful!
